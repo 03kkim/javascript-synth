@@ -1,0 +1,1 @@
+1. I had to rewrite any inline handlers as explicit javascript event listeners
